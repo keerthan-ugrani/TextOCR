@@ -5,7 +5,7 @@ This project focuses on Optical Character Recognition (OCR) for text recognition
 
 
 # Dataset 
-**1.Below is the annotation file link
+* 1.Below is the annotation file link
 https://drive.google.com/drive/folders/1S4mbvPMs8BtBh4u0TdrMDGm7ibC6I-nA
-**2.Images directory 
+* 2.Images directory 
 https://drive.google.com/drive/folders/1aKC85Xpe_DeT0Wdq3M9pR8PkePJh22fJ
