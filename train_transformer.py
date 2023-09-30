@@ -18,6 +18,7 @@ BATCH_SIZE = 32
 GRADIENT_ACCUMULATION_STEPS = 4
 NUM_WORKERS = 2
 MAX_IMAGE_SIZE = (64, 64)
+# please replace it with respective paths 
 CSV_PATH = "C:\\Users\\ramsh\\Downloads\\cleaned_annotations.csv\\updated_cleaned_annotations.csv"
 IMG_DIR = "C:\\Users\\ramsh\\Documents\\TEXTOCR\\Train\\Train"
 CHECKPOINT_PATH = "C:\\Users\\ramsh\\Documents\\TEXTOCR\\output\\checkpoint.pth.tar"
