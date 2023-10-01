@@ -1,6 +1,6 @@
 # TextOCR
 ## Comparsion of CNN with Transformer(with Resnet-18) for Text Recognition Task 
-#Introduction
+# Introduction
 This project focuses on Optical Character Recognition (OCR) for text recognition using a Convolutional Neural Network (CNN) and ResNet-18 model for feature extraction and a Transformer model for sequence prediction along with their comparison. The objective is to train a model capable of recognizing text in images. The dataset consists of images along with corresponding bounding box coordinates and text labels.
 
 
